@@ -1,0 +1,6 @@
+git clone https://github.com/sixgpt/miner.git
+cd miner
+nano .env
+VANA_PRIVATE_KEY= 54142b3d765185d2838c6a4d7648da7448d3cef6895894a2aaeec41de62b5a8b
+VANA_NETWORK=moksha
+
